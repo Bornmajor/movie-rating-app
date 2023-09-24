@@ -12,3 +12,8 @@
 3. Api used -> https://developer.themoviedb.org/reference/
 4. Axios library to make requests via mobile app
 
+# Links
+1. App apk link -> https://expo.dev/artifacts/eas/5EbGv4AVCRz3L6pUVNVshf.apk
+
+# Screenshots
+
