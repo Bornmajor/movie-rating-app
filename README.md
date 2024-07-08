@@ -16,6 +16,8 @@
 1. App apk link -> https://expo.dev/artifacts/eas/5EbGv4AVCRz3L6pUVNVshf.apk
 
 # Screenshots
+<img width="2669" alt="movie-rating-preview2" src="https://github.com/Bornmajor/movie-rating-app/assets/98744068/d017ac86-7db0-4f7f-bf1e-e22844d07fba">
+
 ### Home Screen
 <img src="https://github.com/Bornmajor/movie-rating-app/assets/98744068/a227d654-cdb7-456f-89f4-a24afa884097"  width="200" >
 <img src="https://github.com/Bornmajor/movie-rating-app/assets/98744068/920f359c-c6ac-44a5-9373-86decd32eba5" width="200">
